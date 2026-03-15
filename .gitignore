@@ -26,3 +26,6 @@ Recordings/
 
 # Unity generated
 sysinfo.txt
+
+# macOS
+.DS_Store
